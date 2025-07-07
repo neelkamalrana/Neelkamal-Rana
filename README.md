@@ -104,9 +104,9 @@ hobbies:
   <a href="https://neelkamalrana.github.io" title="DEV">
     <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
   </a>&emsp;
-  <a href="mailto:mail@neelkamalrana.com" title="Email">
+  <!-- <a href="mailto:mail@neelkamalrana.com" title="Email">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="40" height="40" alt="Email"/>
-  </a>&emsp;
+  </a>&emsp; -->
   <a href="mailto:nkrneelkamalrana@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="25" height="25" alt="Gmail"/>
   </a>

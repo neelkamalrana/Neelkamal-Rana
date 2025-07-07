@@ -101,7 +101,7 @@ hobbies:
   <a href="https://www.linkedin.com/in/neelkamalrana/“ title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>&emsp;
-  <a href="https://neelkamalrana.github.io“ title="DEV">
+  <a href="https://neelkamalrana.github.io" title="DEV">
     <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
   </a>&emsp;
   <a href="mailto:mail@neelkamalrana.com" title="Email">
